@@ -1,24 +1,24 @@
 {
-  "store_id": 34059,
-  "name": "suplementojoinville",
   "domain": "suplementojoinville.netlify.app",
-  "short_name": "suplementojoinville",
-  "description": "suplementojoinville",
+  "currency_symbol": "R$",
   "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
   },
-  "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "bg_color": "#ffffff",
+  "repository": "ecomplus-stores/suplementojoinville",
+  "logo": "/img/uploads/1.png",
+  "name": "suplementojoinville",
+  "short_name": "suplementojoinville",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
+  "mini_logo": "",
+  "favicon": "/img/uploads/11.jpg",
   "country_code": "BR",
-  "repository": "ecomplus-stores/suplementojoinville"
+  "secondary_color": "#393e46",
+  "icon": "/img/uploads/1.png",
+  "store_id": 34059,
+  "description": "suplementojoinville",
+  "large_icon": "/img/uploads/1.png"
 }
