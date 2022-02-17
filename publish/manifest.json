@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.5dc15cf2a55c57621a2ad253f3c8e413.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.c2e013f4c9a70e04b92d452547f8099f.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.f463d59b715e12b0ca75bef825fb3e02.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.1845c6ea9876f804905ec6aacf96d360.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.923537c7653ffd837639d487baf673f1.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "suplementojoinville",
+  "short_name": "suplementojoinville",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "suplementojoinville",
+  "background_color": "#ffffff",
+  "theme_color": "#222831"
+}
